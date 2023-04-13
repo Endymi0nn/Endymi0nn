@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Divye joshi</h1>
 <h3 align="center">A Deep-learning enthusiast</h3>
 <h5 align="center">Student at School of Engineering, Jawaharlal Nehru University.</h5>
-<img align="right" alt="Coding" width="300" src="https://jnnce.ac.in/jnndemo/aiml.gif">
+<img align="right" alt="Coding" width="280" src="https://jnnce.ac.in/jnndemo/aiml.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=endymi0nn&label=Profile%20views&color=0e75b6&style=flat" alt="endymi0nn" /> </p>
