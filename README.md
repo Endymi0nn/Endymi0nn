@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=endymi0nn&label=Profile%20views&color=0e75b6&style=flat" alt="endymi0nn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=endymi0nn" alt="endymi0nn" /></a> </p>
-
 - 🔭 I’m currently working on **Neural networks**
 
 - 🌱 I’m currently learning **NLP**
