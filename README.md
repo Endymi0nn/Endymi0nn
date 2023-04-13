@@ -1,8 +1,7 @@
 ![MasterHead](https://www.cognex.com/library/media/blogs/deep-learning-blogs/2019/what-is-deep-learning-large.jpg?sc_lang=en&h=300&w=945&la=en&hash=2701661E1DB5BB88BFB7815323BF9479)
 <h1 align="center">Hi 👋, I'm Divye joshi</h1>
-<h3 align="center">A Deep-learning enthusiast</h3>
-<h5 align="center">Student at School of Engineering, Jawaharlal Nehru University.</h5>
-<img align="right" alt="Coding" width="250" src="https://jnnce.ac.in/jnndemo/aiml.gif">
+<h3 align="center">A Deep-learning enthusiast at SoE, JNU</h3>
+<img align="right" alt="Coding" width="300" src="https://jnnce.ac.in/jnndemo/aiml.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=endymi0nn&label=Profile%20views&color=0e75b6&style=flat" alt="endymi0nn" /> </p>
